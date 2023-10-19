@@ -10,7 +10,7 @@ The following options should be **disabled**/**unchecked**:
 - `Add a README file`
 - `Add .gitignore`
 - `Choose a license`
-1
+2
 <details><summary>Why make the repository public?</summary>
 
 :yawning_face: **tl;dr**: it will allow you to visualize the repository history and branches (see [visualization example](https://github.com/BoiseState/CS471-Assignments-Workflows/network)).
